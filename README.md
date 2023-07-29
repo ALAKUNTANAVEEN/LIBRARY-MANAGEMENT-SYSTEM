@@ -1,0 +1,2 @@
+# Library Managemennt System(LibraSys)
+This Python-based Library Management System provides essential functionalities for managing a library. Users can add, list, search, borrow, return, and donate books. The system maintains a collection of books, tracks their availability, and allows users to perform these operations through a user-friendly interface. It offers a simple and convenient solution for library management tasks.
